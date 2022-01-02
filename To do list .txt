@@ -1,0 +1,2 @@
+1-Add base Functionality
+2- Add the addressing part of the code, when it's format 4.
